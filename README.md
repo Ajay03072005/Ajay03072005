@@ -7,11 +7,15 @@
 
 - 🔭 I’m currently working on [Ai Approved Scholarship portal](https://github.com/Ajay03072005/scholarship)
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MERN Stack and Spring Boot**
+
+- [AI Enhanced Laptop Recommendation System](https://github.com/Barathramesh/PickMyLap)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ajay03072005](https://github.com/Ajay03072005)
 
 - 📫 How to reach me **ajayajax02@gmail.com**
+
+- Active in national-level hackathons & innovation challenges **Hackindia**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

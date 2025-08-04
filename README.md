@@ -1,3 +1,6 @@
+<!-- GitHub Stats with white theme -->
+<img src="https://github-readme-stats.vercel.app/api?username=ajay03072005&show_icons=true&theme=default" />
+
 <h1 align="center">Hi 👋, I'm Ajay P</h1>
 <h3 align="center">FullStack Developer</h3>
 
